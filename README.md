@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MagdaLey
-- 👀 I’m interested in data science, sports and books
-- 🌱 I’m currently learning programming basics
-- 💞️ I’m looking to collaborate on something in the future
+- 👀 I’m interested in data science
+- 🌱 I’m currently learning programming 
 - 📫 How to reach me: by e-mail  magdalena21.03.02@gmail.com
 
 <!---
